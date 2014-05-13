@@ -1,0 +1,12 @@
+The "Charity Commission":http://www.charity-commission.gov.uk keeps a "public register of charity mergers":http://www.charity-commission.gov.uk/Charity_requirements_guidance/Your_charitys_activities/Working_with_others/rom.aspx to ensure that legacies and other gifts left to any charities which 'disappear' following a merger will be automatically transferred to the new merged charity.  
+
+The official *Register of Mergers is held and maintained by the Charity Commission*. Their web version is updated monthly and was last updated 30 November 2010.
+
+Fields in the data are:
+* *merger_date* - Date mergered registered
+* *transfer_date* - Date property transferred 
+* *transferee* - Name of receiving charity (transferee)
+* *transferee_no* - Charity number of receiving charity (transferee)
+* *transferor* - Name of transferring charity (transferor)
+* *transferor_no* - Charity number of transferring charity (transferor)
+* *vesting_date* - Date Vesting Declaration made
